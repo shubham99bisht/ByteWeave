@@ -20932,3 +20932,10 @@ ul {
   color: var(--bs-dark) !important;
   background-color: var(--bs-white) !important;
 }/*# sourceMappingURL=styles.css.map */
+.h-350 {
+  height: 350px;
+}
+
+.object-fit-cover {
+  object-fit: cover;
+}
