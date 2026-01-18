@@ -194,3 +194,23 @@
     transform: translateY(-8px);
     box-shadow: 0 12px 40px rgba(0, 0, 0, 0.15);
 }
+
+/* =========================================
+   Card Accent Border Utilities
+   ========================================= */
+
+.card-accent-primary {
+    border-left: 4px solid var(--bs-primary) !important;
+}
+
+.card-accent-success {
+    border-left: 4px solid var(--bs-success) !important;
+}
+
+.card-accent-warning {
+    border-left: 4px solid var(--bs-warning) !important;
+}
+
+.card-accent-info {
+    border-left: 4px solid var(--bs-info) !important;
+}
